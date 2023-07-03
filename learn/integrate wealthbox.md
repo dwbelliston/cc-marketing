@@ -1,6 +1,6 @@
 # Wealthbox
 
-You have worked hard to setup your CRM and keep your contacts up to date their. Nice job! Let's take advantage of that effort and connect CurrentClient to Wealthbox. Everyday, CurrentClient will copy your contacts core information so you can message your clients in CurrentClient.
+You have worked hard to setup your CRM and keep your contacts up to date there. Nice job! Let's take advantage of that effort and connect CurrentClient to Wealthbox. Everyday, CurrentClient will copy your contacts core information so you can message your clients in CurrentClient.
 
 As message activity occurs in CurrentClient, we will send a daily summary as a note to the client's record in Wealthbox.
 
