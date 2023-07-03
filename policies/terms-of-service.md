@@ -563,5 +563,3 @@ In order to resolve a complaint regarding the Services or to receive further inf
 **United States**
 
 ****legal@currentclient.com****
-
-ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
