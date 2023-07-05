@@ -9,10 +9,13 @@ Then find and replace
 
 Find
 
-](#
+\[(.*?)\]\((#.*?)\)
+
 
 
 Replace
+
+$1
 
 ](https://www.currentclient.com/privacy#
 ](https://www.currentclient.com/cookies#
