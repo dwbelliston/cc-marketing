@@ -1,0 +1,27 @@
+
+Convert html to Markdown
+
+https://codebeautify.org/html-to-markdown
+
+
+
+Then find and replace
+
+Find
+
+](#
+
+
+Replace
+
+](https://www.currentclient.com/privacy#
+](https://www.currentclient.com/cookies#
+](https://www.currentclient.com/secruity#
+
+
+Then format document
+
+
+Push to github
+
+Copy from github to Webflow
