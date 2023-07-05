@@ -29,3 +29,10 @@ Creating the integration with CurrentClient you will need to perform the followi
 10. Once in CRM Sync settings page, you will select the connector you just created and enable the sync and save.
 
 Nice job! CurrentClient will now bring over your clients information automatically.
+
+
+### Sync contacts
+
+### Conversation notes
+
+### Create task from message
