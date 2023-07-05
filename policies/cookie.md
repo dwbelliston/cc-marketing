@@ -173,122 +173,7 @@ Expires in:
 
 23 hours 59 minutes
 
-**
-Unclassified cookies:**
 
-These are cookies that have not yet been categorized. We are in the process of classifying these cookies with the help of their providers.
-
-Name:
-
-amp_9bc3f8
-
-Purpose:
-
-\_\_\_\_\_\_\_\_\_\_
-
-Provider:
-
-.currentclient.com
-
-Service:
-
-\_\_\_\_\_\_\_\_\_\_
-
-Country:
-
-United States
-
-Type:
-
-http_cookie
-
-Expires in:
-
-11 months 30 days
-
-Name:
-
-amplitude_unsent_9bc3f8b6582669c1c488ef31ff11cff1
-
-Purpose:
-
-\_\_\_\_\_\_\_\_\_\_
-
-Provider:
-
-app.currentclient.com
-
-Service:
-
-\_\_\_\_\_\_\_\_\_\_
-
-Country:
-
-United States
-
-Type:
-
-html_local_storage
-
-Expires in:
-
-persistent
-
-Name:
-
-amplitude_unsent_identify_9bc3f8b6582669c1c488ef31ff11cff1
-
-Purpose:
-
-\_\_\_\_\_\_\_\_\_\_
-
-Provider:
-
-app.currentclient.com
-
-Service:
-
-\_\_\_\_\_\_\_\_\_\_
-
-Country:
-
-United States
-
-Type:
-
-html_local_storage
-
-Expires in:
-
-persistent
-
-Name:
-
-\_cc_v2_session
-
-Purpose:
-
-\_\_\_\_\_\_\_\_\_\_
-
-Provider:
-
-client.currentclient.com
-
-Service:
-
-\_\_\_\_\_\_\_\_\_\_
-
-Country:
-
-United States
-
-Type:
-
-http_cookie
-
-Expires in:
-
-session
 
 **How can I control cookies on my browser?**
 
@@ -331,7 +216,7 @@ The date at the top of this Cookie Policy indicates when it was last updated.
 
 **Where can I get further information?**
 
-If you have any questions about our use of cookies or other technologies, please email us at \_\_\_\_\_\_\_\_\_\_ or by post to:
+If you have any questions about our use of cookies or other technologies, please email us at legal@currentclient.com or by post to:
 
 CurrentClient, Inc
 
