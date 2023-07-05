@@ -353,7 +353,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
 
 
-**_In Short:_** _I__f you are a resident of California, you are granted specific rights regarding access to your personal information._
+**_In Short:_** _If you are a resident of California, you are granted specific rights regarding access to your personal information._
 
 
 
